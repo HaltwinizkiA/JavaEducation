@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="042861ee-3fba-4131-8b7c-b445fc242776" name="Default Changelist" comment="add" />
+    <list default="true" id="042861ee-3fba-4131-8b7c-b445fc242776" name="Default Changelist" comment="add">
+      <change afterPath="$PROJECT_DIR$/src/senla/robot/factory/Component/Component.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/senla/robot/factory/body/Body.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/senla/robot/factory/body/LehaBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/senla/robot/factory/body/PandaBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/senla/robot/factory/body/TransGenderBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/senla/robot/factory/head/Head.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/senla/robot/factory/head/HumanHead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/senla/robot/factory/head/LehaHead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/senla/robot/factory/head/TransGenderHead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/senla/robot/factory/plants/Plants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/senla/robot/factory/plants/PlantsOfBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/senla/robot/factory/plants/PlantsOfHead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/senla/robot/factory/robot/AssemblyRobot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/senla/robot/factory/robot/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/senla/robot/factory/robot/RobotName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/senla/robot/factory/type/Type.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,11 +90,16 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/SyberryAcademyTestTasks" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/senla/robot/factory" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\37533\Projects\JavaEducation\src\senla\robot\factory" />
+      <recent name="C:\Users\37533\Projects\JavaEducation\src\syberry\academy\test\task" />
       <recent name="C:\Users\37533\Projects\JavaEducation\src\learning\data\base" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="senla.robot.factory.company" />
     </key>
   </component>
   <component name="RunManager">
@@ -107,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619371084626</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add">
+      <created>1619371376982</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1619371376982</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
