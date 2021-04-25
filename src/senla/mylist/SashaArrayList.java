@@ -167,9 +167,9 @@ public class SashaArrayList<E> implements Mylist<E>, Iterable<E> {
 
     @Override
     public ListIterator<E> listIterator() {
-        ListIterator<E> listIterator=array;
 
-        return listIterator;
+
+        return null;
     }
 
     @Override
