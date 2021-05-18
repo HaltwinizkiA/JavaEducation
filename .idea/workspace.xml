@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="042861ee-3fba-4131-8b7c-b445fc242776" name="Default Changelist" comment="add">
-      <change afterPath="$PROJECT_DIR$/src/senla/robot/factory/Component/Component.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/senla/robot/factory/body/Body.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/senla/robot/factory/body/LehaBody.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/senla/robot/factory/body/PandaBody.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/senla/robot/factory/body/TransGenderBody.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/senla/robot/factory/head/Head.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/senla/robot/factory/head/HumanHead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/senla/robot/factory/head/LehaHead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/senla/robot/factory/head/TransGenderHead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/senla/robot/factory/plants/Plants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/senla/robot/factory/plants/PlantsOfBody.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/senla/robot/factory/plants/PlantsOfHead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/senla/robot/factory/robot/AssemblyRobot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/senla/robot/factory/robot/Robot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/senla/robot/factory/robot/RobotName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/senla/robot/factory/type/Type.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,10 +74,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/senla/robot/factory" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IntroductionToJavaOnline" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\37533\Projects\JavaEducation\src\senla" />
+      <recent name="C:\Users\37533\Projects\JavaEducation\src\senla\port" />
       <recent name="C:\Users\37533\Projects\JavaEducation\src\senla\robot\factory" />
       <recent name="C:\Users\37533\Projects\JavaEducation\src\syberry\academy\test\task" />
       <recent name="C:\Users\37533\Projects\JavaEducation\src\learning\data\base" />
@@ -137,7 +123,35 @@
       <option name="project" value="LOCAL" />
       <updated>1619371376982</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add">
+      <created>1619371938082</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1619371938082</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add">
+      <created>1619372090257</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1619372090257</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add">
+      <created>1619372247476</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1619372247476</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add">
+      <created>1619372421651</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1619372421651</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -150,6 +164,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add" />
